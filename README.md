@@ -17,22 +17,6 @@ whoAmI := map[string]interface{}{
 	"systems":         []string{"MacOS","Windows"},
 }
 ``` 
-## Statistics
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=arshamalh&show_icons=true&theme=algolia&line_height=40">
-  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arshamalh&theme=algolia">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=arshamalh&show_icons=true&locale=en&theme=radical&line_height=20&layout=compact" />
-</p>
-
-<p align = "center">
-  
-</p>
-
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=arshamalh&theme=react-dark">
-</p> 
 
 ## Let's connect! 
 <!-- Hand shake: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
