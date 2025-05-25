@@ -17,6 +17,22 @@ whoAmI := map[string]interface{}{
 	"systems":         []string{"MacOS","Windows"},
 }
 ``` 
+## Statistics
+
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=arshamalh&show_icons=true&theme=algolia&line_height=40">
+  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arshamalh&theme=algolia">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=arshamalh&show_icons=true&locale=en&theme=radical&line_height=20&layout=compact" />
+</p>
+
+<p align = "center">
+  
+</p>
+
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=arshamalh&theme=react-dark">
+</p> 
 
 ## Let's connect! 
 <!-- Hand shake: <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
@@ -40,3 +56,14 @@ whoAmI := map[string]interface{}{
 	<img src="https://img.shields.io/badge/-Resume-10a100?style=for-the-badge&logoColor=white" />
 </a>
 </div>
+## Feed me back!
+Give anonymous feedback to help me to be a better me!
+
+(http://whatiswrongwith.me/Mehdihoseini)
+
+## Interests
+<p align="center">
+	<a href="http://arshamalh.github.io" target="_blank">
+		<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3000&center=true&lines=Full-Stack;Blockchain;Clouds">
+	</a>
+</p>
