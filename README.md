@@ -23,7 +23,7 @@ whoAmI := map[string]interface{}{
 
 <div align="center">
 <p align="center"></p>
-<a href="https://www.twitter.com/Mehdihoseinii/" target="_blank">
+<a href="https://www.twitter.com/Mehdihoseiniii/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 	
@@ -36,7 +36,7 @@ whoAmI := map[string]interface{}{
     <img src="https://img.shields.io/badge/-Gmail-c20006?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/Mehdihoseinii/Mehdihoseinii/raw/main/Cv.pdf">
+<a href="https://github.com/Mehdihoseiniii/Mehdihoseiniii/raw/main/Cv.pdf">
 	<img src="https://img.shields.io/badge/-Resume-10a100?style=for-the-badge&logoColor=white" />
 </a>
 </div>
