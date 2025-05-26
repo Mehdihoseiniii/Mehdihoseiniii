@@ -36,7 +36,7 @@ whoAmI := map[string]interface{}{
     <img src="https://img.shields.io/badge/-Gmail-c20006?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/Mehdihoseinii/Mehdihoseinii/raw/main/CV.pdf">
+<a href="https://github.com/Mehdihoseinii/Mehdihoseinii/raw/main/Cv.pdf">
 	<img src="https://img.shields.io/badge/-Resume-10a100?style=for-the-badge&logoColor=white" />
 </a>
 </div>
