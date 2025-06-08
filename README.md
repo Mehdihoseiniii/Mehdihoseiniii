@@ -6,9 +6,9 @@
 ## Info
 ```go
 whoAmI := map[string]interface{}{
-	"name":            "Seyyed Mehdi",
-	"profession":      "Backend Developer",
-	"location":        "Iran",
+	"name":            []string{"Seyyed Mehdi"},
+	"profession":      []string{"Backend Developer"},
+	"location":        []string{"Iran"},
 	"languages":       []string{"Go"},
 	"databases":       []string{"PostgreSQL","MySQL"},
 	"frameworks":      []string{"Gin"}
